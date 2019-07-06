@@ -9,7 +9,7 @@ Shared Google file:
 
 ### Introduction ###  
 **Study Topic**: Suicide Rates Overview 1985 to 2016  
-Compares socio-economic info with suicide rates by year and country
+Compares socio-economic info with suicide rates by year and country  。
 
 **Group members**:  
 Ruozhuo Wang zara.wang85@gmail.com  
