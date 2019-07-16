@@ -1,4 +1,8 @@
 # ProjectSW
+* Project codes file: "**_Project codes_Full version.ipynb_**"
+* Images and output data: **'Images'** and **'data'** folder
+* Presentation [Google Slides link](https://docs.google.com/presentation/d/1p8XDCEKYMmo2bNsvBTR-1kvKh0UmAhlK0qt_csp0l2M/edit)
+
 
 ## SuperWoman Team is going to rock! **<3**  
 
